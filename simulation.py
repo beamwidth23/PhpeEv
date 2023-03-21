@@ -1,3 +1,5 @@
+// pip install numpy 
+
 import random
 
 from pendulum import Pendulum, DoublePendulum
